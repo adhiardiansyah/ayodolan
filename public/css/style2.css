@@ -1,0 +1,15 @@
+.sampul {
+  width: 300px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.ubahrole {
+  font-size: 9px;
+  background: cyan;
+  border-radius: 10px;
+  border-color: cyan;
+  color: black;
+}
